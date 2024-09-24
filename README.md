@@ -5,3 +5,7 @@ O objetivo deste projeto é fazer um Aplicativo Web Simples com Streamlit.
 - Ter pelo menos um cabeçalho com texto.
 - Ter pelo menos 1 histograma, 1 gráfico de dispersão.
 Ter pelo menos um botão ou uma caixa de seleção.
+
+
+URL do aplicativo no Render:
+https://projeto-app-streamlit.onrender.com
